@@ -1,0 +1,9 @@
+{
+    "name": "Raphael/Framework",
+    "description": "Raphael PHP microframework",
+    "type": "library",
+    "require": {
+        "php": ">=5.5",
+        "Raphael/Stdlib":"dev-master"
+	}
+}
